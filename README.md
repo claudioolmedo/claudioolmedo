@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @claudioolmedo
 - 👀 I’m interested in Low-Cost Educational Toys
-- 🌱 I’m currently learning Blender
-- 💞️ I’m looking to collaborate on Blender
+- 🌱 I’m currently learning Blender and RISC-V
+- 💞️ I’m looking to collaborate on Blender and RISC-V
 - 📫 How to reach me www.claudioolmedo.com
 
 <!---
